@@ -42,3 +42,6 @@ Then make log as usual.
 ### how to consume
 
 RabbitHandler use a topic exchange with a key `{name}.{level}`. This is a common for logging system. You can register a subscriber to consume whatever log you want.  
+
+### 一篇介绍
+[python下如何利用RabbitMq广播日志](http://www.z1xiong.me/blog/2016/05/03/building-log-system-with-rabbitmq-and-python.html)
